@@ -57,18 +57,6 @@ This project is a **Streamlit-based web application** that provides real-time in
 
 ---
 
-## **Screenshots**
-1. **S&P 500 Company List**:
-   ![Company List](screenshots/company_list.png)
-
-2. **Stock Price Visualization**:
-   ![Stock Price Chart](screenshots/stock_price_chart.png)
-
-3. **Data Download**:
-   ![Download CSV](screenshots/download_csv.png)
-
----
-
 ## **Future Enhancements**
 - Add more interactive features like **technical indicators** (e.g., moving averages, RSI).
 - Enable comparison of multiple stocks on the same chart.
